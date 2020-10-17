@@ -1,0 +1,6 @@
+# Ignore Mac system files
+.DS_store
+# Ignore key
+api_key.py
+# Ignore checkpoint
+.ipynb_checkpoints/WeatherPy-checkpoint.ipynb
